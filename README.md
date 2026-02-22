@@ -71,7 +71,7 @@ So after login we show a personalized home, quick access to recent sessions, and
 
 ## 🖼️ How it works (portfolio showcase)
 
-Screenshots and GIFs below illustrate the flow I designed and built. Add your own files to `docs/screenshots/` or replace the placeholder paths.
+<!-- Screenshots and GIFs below illustrate the flow I designed and built. Add your own files to docs/screenshots/ or replace the placeholder paths. -->
 
 
 | Step                         | What to show                                                                   |
@@ -201,7 +201,7 @@ Screenshots and GIFs below illustrate the flow I designed and built. Add your ow
 
 ## 🚀 Getting started 
 
-Instructions below assume you're running from the same repo layout as in this portfolio.
+<!--<!-- Instructions below assume you're running from the same repo layout as in this portfolio. -->-->
 
 ### Prerequisites
 
@@ -222,7 +222,7 @@ pnpm i
 pnpm run dev
 ```
 
-Server runs by default on the port set in your env (e.g. 5000). Ensure MongoDB is available if the monolith uses it.
+<!-- Server runs by default on the port set in your env (e.g. 5000). Ensure MongoDB is available if the monolith uses it. -->
 
 ---
 
@@ -398,7 +398,7 @@ pnpm run dev
 
 ---
 
-## 📁 Repository structure (this portfolio)
+## 📁 Repository structure
 
 | Folder | Purpose |
 | ------ | ------- |
