@@ -201,7 +201,7 @@ So after login we show a personalized home, quick access to recent sessions, and
 
 ## 🚀 Getting started 
 
-<!--<!-- Instructions below assume you're running from the same repo layout as in this portfolio. -->-->
+<!--<!-- Instructions below assume you're running from the same repo layout as in this portfolio. -->
 
 ### Prerequisites
 
