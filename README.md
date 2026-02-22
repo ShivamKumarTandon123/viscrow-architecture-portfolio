@@ -199,7 +199,7 @@ Screenshots and GIFs below illustrate the flow I designed and built. Add your ow
 
 ---
 
-## 🚀 Getting started (run it locally)
+## 🚀 Getting started 
 
 Instructions below assume you're running from the same repo layout as in this portfolio.
 
