@@ -1,8 +1,8 @@
 # Viscrow — AI-Powered Healthcare Productivity Suite
 
-**Portfolio project** — This is my personal showcase for **Viscrow**: a full-stack healthcare product I worked on. It demonstrates end-to-end ownership across desktop app, backend APIs, microservices, and marketing site.
+**Clinicians lose hours juggling patient conversations, notes, and documentation across scattered tools.** This project is a unified solution: speak during the encounter, get real-time transcription, and AI-generated clinical notes—in one desktop app (Aria), with a central API, microservices, and a marketing site (Viscrow Health).
 
-> **Turn voice into structure.** An AI Scribe desktop app for clinical capture and smart notes, scalable backend services, and a marketing site (Viscrow Health) — all part of one unified healthcare documentation and billing product.
+> **Turn voice into structure.** One place to capture, transcribe, and turn conversations into structured notes.
 
 [TypeScript](https://www.typescriptlang.org/)
 [React](https://reactjs.org/)
@@ -411,5 +411,4 @@ pnpm run dev
 ---
 
 ## 🙏 About this portfolio
-
 This repo is my **personal portfolio** for the Viscrow app: a full-stack showcase covering the desktop app (Aria), API design, microservices, and the product-facing web experience. Built to demonstrate my work on a real healthcare productivity product.
